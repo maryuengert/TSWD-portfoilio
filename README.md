@@ -1,2 +1,2 @@
-# TSWD-portfoilio
+# TSWD-portfolio
 https://maryuengert.github.io/TSWD-portfolio/
