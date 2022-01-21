@@ -1,6 +1,5 @@
 # TSWD-portfolio
 https://maryuengert.github.io/TSWD-portfolio/
-This is my public portfolio for the class, "Telling Stories with Data," at Carnegie Mellon University.
 
 # About Me
 Hello world! My name is Mary Yuengert (she/her/hers) and I am a soon-to-graduate Master of Science in Public Policy and Management candidate at Carnegie Mellon University's Heinz College. I am most interested in social policy issues--homelessness, income inequality, hunger, and education--and developing solutions to those problems through legislation or social programs. In my free time (if I have any), I like to run, hike, cook, and tend to my growing family of houseplants. 
