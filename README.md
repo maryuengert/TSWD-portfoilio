@@ -12,4 +12,6 @@ I'm also interested in this class (Telling Stories with Data) to prepare for my 
 # Portfolio
 This is where my dataviz will go.
 
-Final Project: 
+## Other visualizations:
+
+## Final Project: 
