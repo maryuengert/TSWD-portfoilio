@@ -13,5 +13,5 @@ I'm also interested in this class (Telling Stories with Data) to prepare for my 
 This is where my dataviz will go.
 
 ## Other visualizations:
-
+<div class="flourish-embed flourish-chart" data-src="visualisation/8529826"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 ## Final Project: 
