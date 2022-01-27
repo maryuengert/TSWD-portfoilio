@@ -5,3 +5,7 @@
 
 ### OECD Countries' Debt-to-GDP Ratios, 1995-2019
 <div class="flourish-embed flourish-chart" data-src="visualisation/8540840"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Countries' Debt-to-GDP Ratios with focus on GDP size, 1995-2019
+<div class="flourish-embed flourish-chart" data-src="visualisation/8541105"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
