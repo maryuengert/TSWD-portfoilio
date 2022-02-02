@@ -10,7 +10,6 @@ Personally, I'm not a visual learner. I am a writer by trade and in fact, I usua
 I'm also interested in this class (Telling Stories with Data) to prepare for my future employment. After graduation, I will be working as a Data Analytics and Applied AI Consultant with Deloitte's Government and Public Service practice. I know that my work will require me to not only analyze data but to communicate it to clients effectively, so having a solid understanding of how to create good visualizations will be essential.
 
 # Portfolio
-This is where my dataviz will go.
 
 #### [Visualizing Government Debt Assignment](/viz-gov-debt.md)
 
@@ -18,6 +17,14 @@ This is where my dataviz will go.
 <div class="flourish-embed flourish-chart" data-src="visualisation/8529826"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 #### Tableau Tutorial
-<div class='tableauPlaceholder' id='viz1643818081546' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Tableaututorial_16438180491680&#47;AlternateDataviz' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1643818081546');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<div class='tableauPlaceholder' id='viz1643818081546' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Tableaututorial_16438180491680&#47;AlternateDataviz' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+var divElement = document.getElementById('viz1643818081546');                    
+var vizElement = divElement.getElementsByTagName('object')[0];                    
+vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+var scriptElement = document.createElement('script');                   
+scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 ## Final Project: 
