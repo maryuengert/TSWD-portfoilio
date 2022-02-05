@@ -44,7 +44,7 @@ Considering the above comments, I planned to execute a redesign of this visualiz
 2) Feature the gap between students' access as the main variable of interest, rather than including it with the raw data points, and
 3) Use color effectively to show the clear contrast between states that advantage white students on these metrics as opposed to those that advantage Black students.
 
-I also intended this redesign to highlight a trend and tell a story rather than to offer data points for exploration, which may impact what audience is drawn to it. To simplify the design, I also made the decision to focus on only two racial groups and to only show state-level data.
+I also intended this redesign to highlight a trend and tell a story rather than to offer data points for exploration, which may impact what audience is drawn to it. To simplify the design, I also made the decision to focus on only two racial groups and to only show state-level data. While the data I worked with in this redesign activity reflects only the gap between students' access to AP classes, a complete story would also include the data about access to counselors and experienced teachers, which were available in the original Urban Institute tool.
 
 I initially sketched a rough redesign:
 
@@ -80,4 +80,31 @@ The most difficult thing I encountered during the wireframing process was execut
 
 ## Test the Solution
 
+I wanted to test my wireframes on two different audiences--one that was more informed about data visualizations and worked with them often, and one that captured more of the general public perspective, which may not be as attentive to the technical aspects of the visualization but could speak specifically to its intuitiveness. I decided to test both the divergent color scale viz as well as the one focusing only on gaps that advantaged Black students (viz 3 above). The purpose of this was to offer a direct comparison and to see if my early edits were effective in providing clarity. 
 
+For both participants, I asked the following questions of both visualizations:
+
+1) Can you tell me what you think this is?
+2) Can you describe to me what this is telling you?
+3) Is there anything you find surprising and confusing?
+4) Who do you think is the intended audience for this?
+5) Is there anything you would change or do differently?
+
+#### Key Findings
+
+Both participants thought the single-color visualization was clearer and more effective than the one with the divergent color scale. They indicated that the lack of labels on the legend combined with the positive and negative numbers the data offered to represent the gaps was confusing, and that they could not determine which of the two colors represented white-advantaged or Black-advantaged gaps. Both participants indicated that the headlines and subtitles were especially effective in the single-color visual in communicating the key takeaway. Further, the dark colors in the middle of the map in the single-color visual were eye-catching and, combined with the headline, made the key takeaway surprising and interesting. Both participants correctly interpreted the darker color as indiciating that Black students had more access to educational resources.
+
+One participant spoke specifically to the colors chosen in both visuals. The red and blue in the divergent color scale carried political interpretations, and that they made her think the gaps were associated with whether Republican or Democratic governments held power in those states. She also indicated that the color chosen for the non-featured states in the single-color visual was too similar to the lighter colored states in the color scale, so it was difficult to know which states were being featured and why. 
+
+## Redesign
+
+With these findings in mind, I decided that the single-color visual was more effective at communicating the main story within the data. I tried to make changes to the divergent color scale version by adding labels to the legend and taking the absolute value of the gap numbers, but my limited technical experience in Tableau and Flourish made this difficult. 
+
+I incorporated the findings of my user research by changing the color used to represent non-featured states so that it contrasted more with the lightest color on my color scale. I also changed the negative numbers to positive ones to make it more clear what the data was representing. Finally, I edited the headlines of both the Black-advantaged and white-advantaged versions of the map to make for a more cohesive story that incorporated both maps.
+
+Here is the final product:
+
+<div class="flourish-embed flourish-map" data-src="visualisation/8594715"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+<div class="flourish-embed flourish-map" data-src="visualisation/8595702"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
