@@ -100,7 +100,7 @@ One participant spoke specifically to the colors chosen in both visuals. The red
 
 With these findings in mind, I decided that the single-color visual was more effective at communicating the main story within the data. I tried to make changes to the divergent color scale version by adding labels to the legend and taking the absolute value of the gap numbers, but my limited technical experience in Tableau and Flourish made this difficult. 
 
-I incorporated the findings of my user research by changing the color used to represent non-featured states so that it contrasted more with the lightest color on my color scale. I also changed the negative numbers to positive ones to make it more clear what the data was representing. Finally, I edited the headlines of both the Black-advantaged and white-advantaged versions of the map to make for a more cohesive story that incorporated both maps.
+I incorporated the findings of my user research by changing the color used to represent non-featured states so that it contrasted more with the lightest color on my color scale. I kept the use of red and blue because those color scales contrasted most with the grey for non-featured states. While potentially an aspect for further exploration, I predict that seperating these colors to different maps will diminish their political connotation. I also changed the negative numbers to positive ones to make it more clear what the data was representing. Finally, I edited the headlines of both the Black-advantaged and white-advantaged versions of the map to make for a more cohesive story that incorporated both maps.
 
 Here is the final product:
 
