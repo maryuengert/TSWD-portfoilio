@@ -11,7 +11,7 @@ I'm also interested in this class (Telling Stories with Data) to prepare for my 
 
 # Portfolio
 
-#### [Critique by Redesign Assinment](/Critique-by-Design.md)
+#### [Critique by Redesign Assignment](/Critique-by-Design.md)
 
 #### [Visualizing Government Debt Assignment](/viz-gov-debt.md)
 
@@ -30,4 +30,4 @@ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-## Final Project: 
+#### Final Project: 
