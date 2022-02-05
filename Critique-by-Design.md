@@ -40,9 +40,9 @@ Finally, on the point of engagement I gave this viz a 7 out of 10. The focus of 
 ## Wireframing a Solution
 
 Considering the above comments, I planned to execute a redesign of this visualization in three key ways:
-1) Plot the data on a map to draw out any regional trends and allow viewers to explore data spatially, which is may increase intuitiveness,
-2) Feature the gap between students' access as the main variable of interest, rather than including it with the raw data points, and
-3) Use color effectively to show the clear contrast between states that advantage white students on these metrics as opposed to those that advantage Black students.
+1. Plot the data on a map to draw out any regional trends and allow viewers to explore data spatially, which is may increase intuitiveness,
+2. Feature the gap between students' access as the main variable of interest, rather than including it with the raw data points, and
+3. Use color effectively to show the clear contrast between states that advantage white students on these metrics as opposed to those that advantage Black students.
 
 I also intended this redesign to highlight a trend and tell a story rather than to offer data points for exploration, which may impact what audience is drawn to it. To simplify the design, I also made the decision to focus on only two racial groups and to only show state-level data. While the data I worked with in this redesign activity reflects only the gap between students' access to AP classes, a complete story would also include the data about access to counselors and experienced teachers, which were available in the original Urban Institute tool.
 
@@ -84,11 +84,11 @@ I wanted to test my wireframes on two different audiences--one that was more inf
 
 For both participants, I asked the following questions of both visualizations:
 
-1) Can you tell me what you think this is?
-2) Can you describe to me what this is telling you?
-3) Is there anything you find surprising and confusing?
-4) Who do you think is the intended audience for this?
-5) Is there anything you would change or do differently?
+1. Can you tell me what you think this is?
+2. Can you describe to me what this is telling you?
+3. Is there anything you find surprising and confusing?
+4. Who do you think is the intended audience for this?
+5. Is there anything you would change or do differently?
 
 #### Key Findings
 
