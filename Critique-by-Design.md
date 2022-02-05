@@ -1,4 +1,4 @@
-### Selecting a visualization for redesign
+## Selecting a visualization for redesign
 
 The original data visualization I worked with in this assignment came from an [Urban Institute](https://apps.urban.org/features/education-equity-tool/) tool used to show the gap between white and Black students' access to critical education resources. Research shows that access to certain resources such as adequate counseling, AP classes, and experienced teachers have a significant impact on educational outcomes. However, this access isn't equally distributed across student groups, particularly when racially stratified. 
 
@@ -12,7 +12,7 @@ The original data visualization I worked with in this assignment came from an [U
 
 My first impression of this visualization was that it allowed for the size of the gaps to be evident, but the blue and yellow colors chosen (most likely a branding decision) were not contrasting enough to clearly show the difference between Black and white student data points. Further, displaying the states in an alphabetical list did not allow for the viewer to see any spatial trends. While these choices may have been appropriate for Urban Institute's audience--policy researchers looking to draw out their own subsets of data or policymakers searching for general trends--there seemed to be an aspect of the story missing here. I immediately noticed that in some states Black students had more access to these resources than white students. This is contrary to the popular narrative about discrepancies in access to quality education, and thus a story that should be highlighted by the visualization.
 
-### Critique Method
+## Critique Method
 
 I used Stephen Few's [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) to perform a formal critique of the Urban Institute visualization. Below are a few key insights from that critique.
 
@@ -37,7 +37,7 @@ While this visualization was not ugly in any way, the color selection and design
 #### Engagement
 Finally, on the point of engagement I gave this viz a 7 out of 10. The focus of access to educational resources certainly added a new dimension to the education gap debate. There were certain trends that stood out, in particular how regardless of racial gaps, students' access to adequate school counselors is concerningly low across the country. However, I felt that the most interesting aspect of the data--that the gap between white and Black students' access to these resources did not always flow in the same direction--did not immediately jump out and could have been featured more prominently.
 
-### Wireframing a Redesign
+## Wireframing a Redesign
 
 Considering the above comments, I planned to execute a redesign of this visualization in three key ways:
 1) Plot the data on a map to draw out any regional trends and allow viewers to explore data spatially, which is may increase intuitiveness,
@@ -48,32 +48,32 @@ I also intended this redesign to highlight a trend and tell a story rather than 
 
 I initially sketched a rough redesign:
 
-
+![](/Sketch1.PNG)
 
 
 ....which clearly demonstrated that I needed to use a digital tool because of the mapping element. 
+
 
 I then used [Flourish](https://flourish.studio/) to sketch out three rough wireframe options. 
 
 #### 1) Showing all gaps using a diverging color scale
 
 
-
-
-
+![White-Black Access Gap to AP Classes v 1](https://user-images.githubusercontent.com/81482638/152626377-43900ed9-8b22-439a-aaef-f41a5da3df31.png)
 
 
 
 #### 2) Featuring just the white-advantaged states
 
 
+![White-Black Access Gap to AP Classes v 2](https://user-images.githubusercontent.com/81482638/152626385-85d8070b-21a2-4ee2-85cf-8ecc68dd6f5e.png)
 
 
 
 #### 3) Featuring just the Black-advantaged states
 
 
-
+![White-Black Access Gap to AP Classes v 3](https://user-images.githubusercontent.com/81482638/152626386-322a0250-2051-4403-98f1-98d07f4d975b.png)
 
 
 
