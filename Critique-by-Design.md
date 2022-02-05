@@ -1,7 +1,15 @@
 ### Selecting a visualization for redesign
 
 The original data visualization I worked with in this assignment came from an [Urban Institute](https://apps.urban.org/features/education-equity-tool/) tool used to show the gap between white and Black students' access to critical education resources. Research shows that access to certain resources such as adequate counseling, AP classes, and experienced teachers have a significant impact on educational outcomes. However, this access isn't equally distributed across student groups, particularly when racially stratified. 
-![Original Urban Institute Viz](/UrbanDataViz.png) 
+
+
+
+![Original Urban Institute Viz](/UrbanDataViz2.PNG) 
+
+
+
+
+
 My first impression of this visualization was that it allowed for the size of the gaps to be evident, but the blue and yellow colors chosen (most likely a branding decision) were not contrasting enough to clearly show the difference between Black and white student data points. Further, displaying the states in an alphabetical list did not allow for the viewer to see any spatial trends. While these choices may have been appropriate for Urban Institute's audience--policy researchers looking to draw out their own subsets of data or policymakers searching for general trends--there seemed to be an aspect of the story missing here. I immediately noticed that in some states Black students had more access to these resources than white students. This is contrary to the popular narrative about discrepancies in access to quality education, and thus a story that should be highlighted by the visualization.
 
 ### Critique Method
