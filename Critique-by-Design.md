@@ -37,7 +37,7 @@ While this visualization was not ugly in any way, the color selection and design
 #### Engagement
 Finally, on the point of engagement I gave this viz a 7 out of 10. The focus of access to educational resources certainly added a new dimension to the education gap debate. There were certain trends that stood out, in particular how regardless of racial gaps, students' access to adequate school counselors is concerningly low across the country. However, I felt that the most interesting aspect of the data--that the gap between white and Black students' access to these resources did not always flow in the same direction--did not immediately jump out and could have been featured more prominently.
 
-## Wireframing a Redesign
+## Wireframing a Solution
 
 Considering the above comments, I planned to execute a redesign of this visualization in three key ways:
 1) Plot the data on a map to draw out any regional trends and allow viewers to explore data spatially, which is may increase intuitiveness,
@@ -76,5 +76,8 @@ I then used [Flourish](https://flourish.studio/) to sketch out three rough wiref
 ![White-Black Access Gap to AP Classes v 3](https://user-images.githubusercontent.com/81482638/152626386-322a0250-2051-4403-98f1-98d07f4d975b.png)
 
 
+The most difficult thing I encountered during the wireframing process was executing the divergent color scale I had envisioned, given the data and the Flourish tool's limitations. I anticipated that the color scale and the legend may be a point of confusion for viewers, so I also sketched out maps that separated the positive and negative gaps in the data. I also aimed with these sketches to provide informative headlines to communicate the main insight for readers.
+
+## Test the Solution
 
 
