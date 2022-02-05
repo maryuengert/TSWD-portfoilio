@@ -11,6 +11,8 @@ I'm also interested in this class (Telling Stories with Data) to prepare for my 
 
 # Portfolio
 
+#### [Critique by Redesign Assinment](/Critique-by-Redesign.md)
+
 #### [Visualizing Government Debt Assignment](/viz-gov-debt.md)
 
 #### King County COVID-19 Data (class demo)
