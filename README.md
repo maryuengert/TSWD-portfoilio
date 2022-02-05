@@ -11,7 +11,7 @@ I'm also interested in this class (Telling Stories with Data) to prepare for my 
 
 # Portfolio
 
-#### [Critique by Redesign Assinment](/Critique-by-Redesign.md)
+#### [Critique by Redesign Assinment](/Critique-by-Design.md)
 
 #### [Visualizing Government Debt Assignment](/viz-gov-debt.md)
 
