@@ -10,14 +10,14 @@ The original data visualization I worked with in this assignment came from an [U
 
 
 
-My first impression of this visualization was that it allowed for the size of the gaps to be evident, but the blue and yellow colors chosen (most likely a branding decision) were not contrasting enough to clearly show the difference between Black and white student data points. Further, displaying the states in an alphabetical list did not allow for the viewer to see any spatial trends. While these choices may have been appropriate for Urban Institute's audience--policy researchers looking to draw out their own subsets of data or policymakers searching for general trends--there seemed to be an aspect of the story missing here. I immediately noticed that in some states Black students had more access to these resources than white students. This is contrary to the popular narrative about discrepancies in access to quality education, and thus a story that should be highlighted by the visualization.
+My first impression of this visualization was that while the size of the gaps were evident, the blue and yellow colors chosen (most likely a branding decision) were not contrasting enough to clearly show the difference between Black and white student data points. Further, displaying the states in an alphabetical list did not allow for the viewer to see any spatial trends. While these choices may have been appropriate for Urban Institute's audience and purpose--policy researchers looking do their own data exploration--there seemed to be an aspect of the story missing here. I immediately noticed that in some states Black students had more access to these resources than white students. This is contrary to the popular narrative about discrepancies in access to quality education, and thus a story that should be highlighted by the visualization.
 
 ## Critique Method
 
 I used Stephen Few's [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) to perform a formal critique of the Urban Institute visualization. Below are a few key insights from that critique.
 
 #### Usefulness
-On a scale of 1-10, I rated this viz 6 for usefulness to the intended audience. While the features that allow for interaction and deeper data exploration are quite useful for researchers, the color selection and listing of states do not draw out useful conclusions that could dirve more targeted research. 
+On a scale of 1-10, I rated this viz 6 for usefulness to the intended audience. While the features that allow for interaction and deeper data exploration are quite useful for researchers, the color selection and listing of states do not draw out useful conclusions that could drive more targeted research. 
 
 #### Completeness
 I rated this viz an 8 for completeness--the visualization was very thorough in providing both state and district-level data, as well as data on multiple variables such as access to AP classes, adequate counselors, and experienced teachers. At the same time, this thoroughness led to a lot of eye travel for the viewer so that the data was not immediately understandable.
