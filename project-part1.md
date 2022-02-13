@@ -9,7 +9,9 @@ The project's major features are:
 
 ### Initial Sketches
 
+![image_16847105](https://user-images.githubusercontent.com/81482638/153767926-c99615ef-e6bb-442e-806b-462c2fafba39.JPG)
 
+![image_67191041](https://user-images.githubusercontent.com/81482638/153768175-b9ba4e13-60cb-41c3-a984-9057a3a529e5.JPG)
 
 ### Data
 The primary data sources for this project will be the National Center for Education Statistics (NCES) through the U.S. Department of Education, The National Center for Fair and Open Testing, and data from the College Board.
