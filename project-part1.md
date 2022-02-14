@@ -34,4 +34,4 @@ I will be using data from the College Board's SAT Program Participation and Perf
 
 
 ### Method and Medium
-I plan to display this story using ArcGIS Storymaps. I plan to interweave data visualizations, data callouts, and short paragraphs to effectively tell the story. I'd like to focus the story on those being left out by the current standardized testing system--people of color, low-income students, first-generation students, etc.--so my final class presentation will focus on that aspect of the StoryMap. 
+I plan to display this story using ArcGIS Storymaps and do most of my data visualizations in Flourish. I also want to attempt to learn and use Datawrapper as it seems like they have some more interesting visuals that aren't available on Flourish. I plan to interweave data visualizations, data callouts, and short paragraphs to effectively tell the story. I'd like to focus the story on those being left out by the current standardized testing system--people of color, low-income students, first-generation students, etc.--so my final class presentation will focus on that aspect of the StoryMap. 
