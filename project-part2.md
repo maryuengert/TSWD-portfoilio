@@ -44,7 +44,7 @@ One common thread I found between several interviews is that there are holes in 
 All of my interviewees communciated that they were very engaged by the presentation, given the nature of the content but also the structure of the narrative. All were hooked by the opening section on _why_ students feel the need to take the SAT and perform well on it, I think because it answers an essential question many readers will have _before_ they have it. Another universal positive was the quality of the visualizations themselves. All interviewees conveyed that they were clear in their simplicity, thought-provoking, and conveying the information they intended to convey effectively. Some of the visualizations received universal praise: the line chart on race disparities, the dot chart conveying the growth of test optional schools; and the rise of bachelor's degrees line chart.
 
 **Things that didn't work:**
-There was some divergent opinions on whether some of the viz was effective in supporting my central argument. Two users loved the unit charts and the people-centered perspective they brought; another thought they were the equivalent of a pie chart and didn't add much to the story. Some thought all the charts played an important role; others pointed out ones that weren't playing much of a part, such as the gender bar chart. Two users thought the test optional schools graphic needed a point of reference rather than raw numbers, which was helpful feedback. I was also left with helpful feedback about how to improve my bar charts.
+There were some divergent opinions on whether some of the viz was effective in supporting my central argument. Two users loved the unit charts and the people-centered perspective they brought; another thought they were the equivalent of a pie chart and didn't add much to the story. Some thought all the charts played an important role; others pointed out ones that weren't playing much of a part, such as the gender bar chart. Two users thought the test optional schools graphic needed a point of reference rather than raw numbers, which was helpful feedback. I was also left with helpful feedback about my gender bar chart by portraying it as a line chart to more clearly show the effect.
 
 **Things to change:**
 Given my user feedback, I developed the following list of items I intend to change before my final presentation:
@@ -53,7 +53,7 @@ _Charts_:
 * Change test optional schools graphic to reflect a proportion
 * Make scale on test optional schools graphic more dramatic
 * Change bar chart for gender disparities to a line chart and add more context for why this might be the case
-* change colors on all charts so that colors represent the same thing (gender, race, etc.)
+* Change colors on all charts so that colors represent the same thing (gender, race, etc.)
 
 _Story_:
 * Make audience more clear at beginning of presentation
