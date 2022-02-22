@@ -60,4 +60,5 @@ _Story_:
 * Add an emotional appeal aspect--what is the effect of this on students? Perhaps find direct quotes.
 * Add more text from research to add context and supporting evidence to viz to show the "why" rather than just the "what"
 * Add section on schools that have already done this and succeeded (a test case)
+* Incorporate more photos to bring personal aspect to story (pictures of students?); Remind the audience _who_ this affects! 
 
