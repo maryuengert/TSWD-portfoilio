@@ -34,3 +34,5 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 
 ##### [Part 1](/project-part1.md)
 
+##### [Part 2](/project-part2.md)
+
