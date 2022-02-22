@@ -23,13 +23,19 @@ My main focus for my user research phase was to focus on the storytelling elemen
 
 I used the following script for my interviews:
 
-Goals | Questions
-------| ------
-Table Cell   | Cell 2
-Cell 3       | Cell 4 
+![image](https://user-images.githubusercontent.com/81482638/155044651-19d3501c-b806-4934-b768-4a97bc8bfa8b.png)
 
+When selecting interviewees, I wanted to get feedback from at least one member of my intended audience: a college admissions administrator. However, given the short time frame, I wasn't able to track down a suitable interviewee. Instead, I sought feedback from more accessible users who although not members of my target audience were educated and discerning about stories and data visualizations.
 
 #### Findings
 
+![image](https://user-images.githubusercontent.com/81482638/155046688-813f7b9d-87bb-4cfa-9ee9-ab1a77c7fe0e.png)
 
+
+
+
+
+
+
+#### Trends and Next Steps
 
