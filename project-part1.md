@@ -1,4 +1,6 @@
-### Outline 
+## Final Project: Part I
+
+### Project Outline 
 For decades, the Scholastic Appitude Test (SAT) administered by the College Board has been the go-to tool for demonstrating and measuring college readiness in the college admissions process. During the COVID-19 pandemic, the provision of the SAT has faced numerous obstacles as testing centers have closed and colleges have temporarily or permanently foregone testing requirements in the admissions process. While the College Board attempts to reform the exam to maintain relevance, this project will present evidence that the SAT does a poor job at measuring college readiness and serves as a major barrier to students of color, low-income students, and/or first-generation students accessing competitive universities and should be abandoned as an admissions requirement or consideration.
 
 The project's major features are:
