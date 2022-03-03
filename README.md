@@ -11,6 +11,14 @@ I'm also interested in this class (Telling Stories with Data) to prepare for my 
 
 # Portfolio
 
+#### Final Project, Telling Stories with Data class at CMU: 
+
+##### [Part 1](/project-part1.md)
+
+##### [Part 2](/project-part2.md)
+
+##### [Part 3](/project-part3.md)
+
 #### [Critique by Redesign Assignment](/Critique-by-Design.md)
 
 #### [Visualizing Government Debt Assignment](/viz-gov-debt.md)
@@ -30,9 +38,5 @@ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-#### Final Project: 
 
-##### [Part 1](/project-part1.md)
-
-##### [Part 2](/project-part2.md)
 
